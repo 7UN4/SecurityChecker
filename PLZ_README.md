@@ -33,5 +33,5 @@
 
 ## 7. 실행 방법
 - 압축 파일 해제 후, Security_Checker.bat 파일 실행
-![컨텐츠 경연대회 캡쳐 2](https://user-images.githubusercontent.com/85774577/221414910-a2d5d637-9d8f-4879-9135-82deb6256aae.png)
-![컨텐츠 경연대회 캡쳐1](https://user-images.githubusercontent.com/85774577/221414925-66fa5f16-a0b7-48dd-88a8-f3924ab69a3d.png)
+![pc 보안조치1](https://user-images.githubusercontent.com/85774577/221416190-9745fd6b-87e3-4086-a1d8-b8b37a4b600a.png)
+![pc 보안조치2](https://user-images.githubusercontent.com/85774577/221416204-d2c0363a-9db1-4324-96b3-6288ab00ec61.png)
